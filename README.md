@@ -27,24 +27,25 @@ Make sure you have the following installed:
    git clone 
 
 2. Navigate to the project directory:
-
- bash
+   ```bash
 cd wingman-catalog
 
 
 3. Install dependencies:
+   ```bash
+   npm install
 
- bash
 
-npm install
-Start the development server:
+4. Start the development server:
+   ```bash
+   npm start
 
- bash
 
-npm start
-The app will run at http://localhost:3000.
+5. The app will run at http://localhost:3000.
 
 ### Deployment
 The app is deployed on Vercel/Replit. You can find the public link here.
 Vercel link - https://wing-man-peach.vercel.app/
+
+
 Replit link - https://ac15018e-bed7-406d-9d6d-96fb22c0b98c-00-75ejdrw71j5.pike.replit.dev:3000/
