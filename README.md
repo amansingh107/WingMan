@@ -5,6 +5,7 @@ Wingman is a React-based product catalog that allows users to browse and search 
 
 ## Deployed App
 **Vercel link** - https://wing-man-peach.vercel.app/
+
 **Replit link** - https://ac15018e-bed7-406d-9d6d-96fb22c0b98c-00-75ejdrw71j5.pike.replit.dev:3000/
 
 ## Features
@@ -28,18 +29,15 @@ Make sure you have the following installed:
 
 2. Navigate to the project directory:
    ```bash
-cd wingman-catalog
-
+   cd wingman-catalog
 
 3. Install dependencies:
    ```bash
    npm install
 
-
 4. Start the development server:
    ```bash
    npm start
-
 
 5. The app will run at http://localhost:3000.
 
